@@ -109,11 +109,11 @@ Namespace: default
 ```
 then click Create.
 
-[<img src="images/demo-argocd-02.png" alt="argocd-example-app" align="right" width="600"/>](images/demo-argocd-02.png)
+[<img src="images/demo-argocd-02.png" alt="argocd-example-app" align="center" width="800"/>](images/demo-argocd-02.png)
 
 and couple of mins later you can see the progress:
 
-[<img src="images/demo-argocd-03.png" alt="argocd-example-progress" align="right" width="600"/>](images/demo-argocd-03.png)
+[<img src="images/demo-argocd-03.png" alt="argocd-example-progress" align="center" width="600"/>](images/demo-argocd-03.png)
 
 ```
 kubectl get po -n helm-guestbook
