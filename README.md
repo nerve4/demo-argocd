@@ -90,7 +90,8 @@ password witth [CLI](https://github.com/argoproj/argo-cd/releases/tag/v2.6.2)
 ```
 argocd admin initial-password -n argocd
 ```
-[<img src="images/demo-argocd-01.png" alt="argocd-ui" align="right" width="600"/>](images/demo-argocd-01.png)
+
+[<img src="images/demo-argocd-01.png" alt="argocd-ui" align="right" width="800"/>](images/demo-argocd-01.png)
 
 
 ## Deploy Your First App
